@@ -18,7 +18,7 @@ class HomePage extends StatelessWidget {
                     width: 400),
                 Padding(
                   padding: const EdgeInsets.all(15.0),
-                  child: Text("COMPONENTS",
+                  child: Text("COMPONENTS1000",
                   style: kTitlePageTextStyle,),
                 ),
                 ItemMenuWidget(
